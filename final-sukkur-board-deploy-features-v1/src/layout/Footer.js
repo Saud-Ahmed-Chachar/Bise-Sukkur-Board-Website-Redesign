@@ -68,8 +68,8 @@ const Footer = () => {
                 </li>
 
                 <li>
-                  <h6>Powered By <span target={"_blank"} href="https://www.fastechsystem.com">
-                    FasTech System
+                  <h6>Powered By <span target={"_blank"} href="https://personal-portfolio-alpha-snowy-21.vercel.app/">
+                    Saud Ahmed & Imran Khan
                   </span></h6>
 
                 </li>
